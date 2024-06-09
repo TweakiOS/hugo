@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://helixes.pages.dev"
 languageCode = "zh-cn"
 title = "AI era - All about AI and created by AI"
 theme = "github-style"
@@ -9,13 +9,9 @@ pygmentsUseClasses = true
   author = "Helixes"
   description = "AI era - All about AI and created by AI"
   github = "Helixes"
-  facebook = "Helixes"
   twitter = "Helixes"
-  linkedin = "Helixes"
-  instagram = "Helixes"
-  tumblr = "Helixes"
   email = "admin@helixes.net"
-  url = "/"
+  url = "https://helixes.pages.dev"
   keywords = "blog, google analytics"
   rss = true
   lastmod = true
@@ -41,11 +37,10 @@ pygmentsUseClasses = true
     proxy = "https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token" # 可以自行添加反向代理
   [[params.links]]
     title = "Link"
-    href = "https://github.com/meik2333"
+    href = "https://lxc.today"
   [[params.links]]
     title = "Link2"
-    href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    href = "https://lxc.one"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
