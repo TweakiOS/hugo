@@ -1,6 +1,6 @@
 ---
-title: "Dragon Boat Racing by CallAnnie"
-slug: "my-first-blog"
+title: "Dragon Boat Racing by CallAnnie 3"
+slug: "3"
 date: 2024-03-29T19:30:00+08:00
 lastmod: 2024-03-29T19:30:00+08:00 
 draft: false
