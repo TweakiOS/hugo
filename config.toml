@@ -23,11 +23,11 @@ pygmentsUseClasses = true
   enableGitalk = true
 
   [params.gitalk]
-    clientID = "Your client ID" # Your client ID
-    clientSecret = "Your client secret" # Your client secret
-    repo = "LuvSia" # 您的博客的github地址Repository name，例如：xxxx.github.io
-    owner = "ventusoon" # 您的GitHub ID
-    admin = "ventusoon" # 您的GitHub ID
+    clientID = "Ov23liEUpauiPF8ZhMXT" # Your client ID
+    clientSecret = "b179cfb09d71c285fd3e047e61d27675b3d8afeb" # Your client secret
+    repo = "hugo" # 您的博客的github地址Repository name，例如：xxxx.github.io
+    owner = "TweakiOS" # 您的GitHub ID
+    admin = "TweakiOS" # 您的GitHub ID
     id = "location.pathname" # 文章页面的链接地址就是ID
     labels = "gitalk" # Github issue labels. If you used to use Gitment, you can change it
     perPage = 15 # Pagination size, with maximum 100.
@@ -38,9 +38,7 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link"
     href = "https://lxc.today"
-  [[params.links]]
-    title = "Link2"
-    href = "https://lxc.one"
+
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
