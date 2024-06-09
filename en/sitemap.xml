@@ -2,26 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/p/</loc>
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="//localhost:1313/ar/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/"
-                />
-  </url><url>
     <loc>//localhost:1313/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,18 +11,46 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="//localhost:1313/ar/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/"
                 />
   </url><url>
+    <loc>//localhost:1313/tags/blog/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/zh-cn/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/p/my-first-blog/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/my-first-blog/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/my-first-blog/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/p/my-first-blog/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/hugo/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/post/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -48,13 +58,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="//localhost:1313/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/tags/"
                 />
+  </url><url>
+    <loc>//localhost:1313/tags/web/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/%E5%A4%A9%E5%A4%A9%E5%90%91%E4%B8%8A/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/%E8%8A%9D%E9%BA%BB%E5%BC%80%E8%8A%B1/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/%E9%9D%99%E6%80%81%E7%BD%91%E7%AB%99/</loc>
+    <lastmod>2024-03-29T19:30:00+08:00</lastmod>
   </url>
 </urlset>
