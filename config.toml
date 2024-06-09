@@ -23,8 +23,8 @@ pygmentsUseClasses = true
   enableGitalk = true
 
   [params.gitalk]
-    clientID = "Ov23liOavCWg1dQQMz49" # Your client ID
-    clientSecret = "265ecd3ef20d5074d8662f01f55fe96e8642093b" # Your client secret
+    clientID = "Ov23liEUpauiPF8ZhMXT" # Your client ID
+    clientSecret = "b179cfb09d71c285fd3e047e61d27675b3d8afeb" # Your client secret
     repo = "hugo" # 您的博客的github地址Repository name，例如：xxxx.github.io
     owner = "TweakiOS" # 您的GitHub ID
     admin = "TweakiOS" # 您的GitHub ID
