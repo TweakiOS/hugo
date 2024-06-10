@@ -41,6 +41,7 @@ pygmentsUseClasses = true
 
 
 [frontmatter]
+  date = ['myDate', ':default']
   lastmod = ["lastmod", ":fileModTime", ":default"]
 
 [services]
