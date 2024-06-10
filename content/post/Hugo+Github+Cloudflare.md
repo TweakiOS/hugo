@@ -1,6 +1,6 @@
 ---
 title: "Hugo+Github+Cloudflare"
-slug: "my-first-blog"
+slug: ""
 date: 
 lastmod: 
 draft: false
@@ -19,4 +19,7 @@ categories : [
 ---
 
 Everything works well.
+
 ![cloudflare](/images/cloudflare.png)
+
+
