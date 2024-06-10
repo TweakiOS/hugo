@@ -18,7 +18,7 @@ categories : [
 ]
 ---
 
-![AI-conf-2024 travel]("/img/AI-conf-2024 travel.png")
+![AI-conf-2024 travel](/img/AI-conf-2024-travel.png)
 
 **WAIC Venue and Transportation Map**
 
