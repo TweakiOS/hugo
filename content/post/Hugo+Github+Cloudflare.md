@@ -19,4 +19,4 @@ categories : [
 ---
 
 Everything works well.
-![cloudflare](cloudflare.png)
+![cloudflare](/images/cloudflare.png)
