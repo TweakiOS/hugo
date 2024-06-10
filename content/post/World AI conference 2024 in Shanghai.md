@@ -1,7 +1,7 @@
 ---
 title: "World AI conference 2024"
 slug: "AI-conf-2024"
-date: 
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 lastmod: 
 draft: false
 description : ""
