@@ -1,5 +1,5 @@
 ---
-title: "Dragon Boat Racing by CallAnnie"
+title: "World AI conference 2024"
 slug: "AI-conf-2024"
 date: 
 lastmod: 
@@ -18,7 +18,7 @@ categories : [
 ]
 ---
 
-![AI-conf-2024 travel](/img/AI-conf-2024 travel.png)
+![AI-conf-2024 travel]("/img/AI-conf-2024 travel.png")
 
 **WAIC Venue and Transportation Map**
 
