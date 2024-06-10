@@ -20,6 +20,6 @@ categories : [
 
 Everything works well.
 
-![cloudflare](/images/cloudflare.png)
+![cloudflare](/img/cloudflare.png)
 
 
